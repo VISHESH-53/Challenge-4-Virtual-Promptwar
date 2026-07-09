@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+.next
+dist
+.turbo
+__pycache__
+*.pyc
+.venv
+.pytest_cache
+.coverage
+coverage.xml
+.env
+.env.local
+.DS_Store
+*.db
+docker/postgres/data
+docker/redis/data
